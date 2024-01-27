@@ -1,1 +1,1 @@
-# appimage-app
+# deb-app
